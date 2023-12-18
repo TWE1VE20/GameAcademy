@@ -1,0 +1,22 @@
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\CSharp-Programing\00. Programing\bin\Debug\net8.0\ConsoleApp1.deps.json
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\CSharp-Programing\00. Programing\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\CSharp-Programing\00. Programing\bin\Debug\net8.0\ConsoleApp1.exe
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\CSharp-Programing\00. Programing\bin\Debug\net8.0\00. Programing.exe
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\CSharp-Programing\00. Programing\bin\Debug\net8.0\00. Programing.deps.json
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\CSharp-Programing\00. Programing\bin\Debug\net8.0\00. Programing.runtimeconfig.json
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\CSharp-Programing\00. Programing\bin\Debug\net8.0\00. Programing.dll
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\CSharp-Programing\00. Programing\bin\Debug\net8.0\00. Programing.pdb
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\CSharp-Programing\00. Programing\bin\Debug\net8.0\ConsoleApp1.dll
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\CSharp-Programing\00. Programing\bin\Debug\net8.0\ConsoleApp1.pdb
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\CSharp-Programing\00. Programing\obj\Debug\net8.0\00. Programing.csproj.AssemblyReference.cache
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\CSharp-Programing\00. Programing\obj\Debug\net8.0\00. Programing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\CSharp-Programing\00. Programing\obj\Debug\net8.0\00. Programing.AssemblyInfoInputs.cache
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\CSharp-Programing\00. Programing\obj\Debug\net8.0\00. Programing.AssemblyInfo.cs
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\CSharp-Programing\00. Programing\obj\Debug\net8.0\00. Programing.csproj.CoreCompileInputs.cache
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\CSharp-Programing\00. Programing\obj\Debug\net8.0\00. Programing.sourcelink.json
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\CSharp-Programing\00. Programing\obj\Debug\net8.0\00. Programing.csproj.CopyComplete
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\CSharp-Programing\00. Programing\obj\Debug\net8.0\00. Programing.dll
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\CSharp-Programing\00. Programing\obj\Debug\net8.0\refint\00. Programing.dll
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\CSharp-Programing\00. Programing\obj\Debug\net8.0\00. Programing.pdb
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\CSharp-Programing\00. Programing\obj\Debug\net8.0\00. Programing.genruntimeconfig.cache
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\CSharp-Programing\00. Programing\obj\Debug\net8.0\ref\00. Programing.dll
