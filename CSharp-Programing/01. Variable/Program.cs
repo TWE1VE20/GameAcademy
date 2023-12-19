@@ -1,7 +1,7 @@
 ﻿namespace _01._Variable
 {
     internal class Program
-    {
+    { 
         static void Main(string[] args)
         {
             /*****************************************************************
@@ -61,15 +61,23 @@
             // <변수에 데이터 저장>
             // =(대입연산자) 좌측에 변수를 배치
             iValue = 5;                         // iValue 변수에 5의 데이터 저장
-            fValue = 1.2f;                      // fValue 변수에 1.2f 데이터를 초기화
+            fValue = 1.2222f;                      // fValue 변수에 1.2f 데이터를 초기화
+            // fValue = 1.2d;                    // double 변수를 저장하려면 f 대신 d를 붙인다
 
 
             // <변수의 데이터 불러오기>
             // 데이터가 필요한 곳에 변수명을 배치
             int rValue = 20;
             int lValue = rValue;
+            // 일반적인 방법(사용할 수 있지만, 최적화가 안되기에 되도록이면 사용안하는것을 권장)
+            Console.WriteLine("rValue 변수에 보관된 데이터는" + rValue + "입니다.");
+            // 앞에 $를 넣고 안에 {}로 변수 값을 넣는방식
             Console.WriteLine($"rValue 변수에 보관된 데이터는 {rValue} 입니다.");
             Console.WriteLine($"lValue 변수에 보관된 데이터는 {lValue} 입니다.");
+            // float 3번제자리까지 넣는 방식
+            Console.WriteLine($"lValue 변수에 보관된 데이터는 {fValue:f3} 입니다.");
+            // 문자앞 들여쓰기 (-로 하면 뒤에 들여쓰기)
+            Console.WriteLine($"lValue 변수에 보관된 데이터는 {fValue, +10} 입니다.");
 
 
 
@@ -87,6 +95,7 @@
             Console.WriteLine($"MAX 상수에 보관된 데이터는 {MAX} 입니다.");
             // const int MIN;           // error : 상수는 초기화 없이 사용불가
             // MAX = 20                 // error : 상수의 데이터 변경 불가
+            // C,C++등에서 사용하는 #define또한 사용가능하지만 C#에서는 const를 사용하고 define은 다른 용도로 주로 사용
 
 
 
@@ -97,6 +106,9 @@
              * 다른 자료형의 데이터를 저장하기 위해선 형변환 과정을 거쳐야하며,
              * 이 과정에서 보관할 수 없는 데이터는 버려짐
              ******************************************************************/
+
+            // <명시적 형변환 - 수동>
+            // <묵시적 형변환 - 자동>
 
             // <명시적 형변환>
             // 변환할 데이터의 앞에 변환할 자료형을 괄호안에 넣어 형변환 진행
@@ -127,10 +139,12 @@
             int value = int.Parse("142");               // int.Parse를 통해 string 자료형을 int로 변환
             // int value = (int)"142";                  // error : 문자열 자료를 정수형 자료형으로 단순형변환은 불가능
             // int value = int.Parse("abc");            // error : 변환할 수 없는 문자열 자료를 정수형으로 변환하려 시도하는 경우 예외 발생
+            float percent = float.Parse("0.2");
+            Console.WriteLine($"percent에 float가 {percent} 로 정상적으로 입력되었습니다.");
 
             bool fail = int.TryParse("abc", out value);         // 변환이 불가한 문자열이므로, fail은 false, value는 0이 결과로 나옴
             bool successs = int.TryParse("123", out value);     // 변환이 가능한 문자열이므로, success는 true, value는 변환 결과가 나옴
-
+            
 
 
             /*******************************************************************
@@ -147,6 +161,7 @@
             iArray = new int[10];                           // int 데이터를 10개 가지는 배열 생성
             iArray[0] = 20;                                 // 1차원 배열의 0번째 배열요소에 접근
             float[] fArray = { 1.1f, 2.3f, 3.1f, 4.5f };    // 1차원 배열의 선언과 초기화, 배열의 크기는 초기화한 갯수만큼 자동으로 생성
+            //여기서는 4개를 먼저 넣고 만들었기에 배열 크기가 4개가 된다.
 
             // <다차원 배열>
             // 다차원 배열의 선언은 자료형뒤에 []괄호를 추가하며, 추가하는 차원수만큼 ','를 추가

@@ -1,0 +1,15 @@
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2023_12_19\Charactor_Selection\Charactor_Selection\bin\Debug\net8.0\Charactor_Selection.exe
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2023_12_19\Charactor_Selection\Charactor_Selection\bin\Debug\net8.0\Charactor_Selection.deps.json
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2023_12_19\Charactor_Selection\Charactor_Selection\bin\Debug\net8.0\Charactor_Selection.runtimeconfig.json
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2023_12_19\Charactor_Selection\Charactor_Selection\bin\Debug\net8.0\Charactor_Selection.dll
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2023_12_19\Charactor_Selection\Charactor_Selection\bin\Debug\net8.0\Charactor_Selection.pdb
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2023_12_19\Charactor_Selection\Charactor_Selection\obj\Debug\net8.0\Charactor_Selection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2023_12_19\Charactor_Selection\Charactor_Selection\obj\Debug\net8.0\Charactor_Selection.AssemblyInfoInputs.cache
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2023_12_19\Charactor_Selection\Charactor_Selection\obj\Debug\net8.0\Charactor_Selection.AssemblyInfo.cs
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2023_12_19\Charactor_Selection\Charactor_Selection\obj\Debug\net8.0\Charactor_Selection.csproj.CoreCompileInputs.cache
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2023_12_19\Charactor_Selection\Charactor_Selection\obj\Debug\net8.0\Charactor_Selection.sourcelink.json
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2023_12_19\Charactor_Selection\Charactor_Selection\obj\Debug\net8.0\Charactor_Selection.dll
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2023_12_19\Charactor_Selection\Charactor_Selection\obj\Debug\net8.0\refint\Charactor_Selection.dll
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2023_12_19\Charactor_Selection\Charactor_Selection\obj\Debug\net8.0\Charactor_Selection.pdb
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2023_12_19\Charactor_Selection\Charactor_Selection\obj\Debug\net8.0\Charactor_Selection.genruntimeconfig.cache
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2023_12_19\Charactor_Selection\Charactor_Selection\obj\Debug\net8.0\ref\Charactor_Selection.dll
