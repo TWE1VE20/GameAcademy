@@ -7,6 +7,7 @@
             int count = 0;
             int pWin = 0;
             int cWin = 0;
+            string player;
 
             for (int i = 0; i < 5; i++)
             {
@@ -22,13 +23,25 @@
                 Console.Clear();
             }
 
+            Console.WriteLine("\n3번 먼저 인긴 쪽이 승리합니다.");
+            Thread.Sleep(800);
+            Console.Clear();
+
             while (true)
             {
                 Console.Write("\n뭘 내실건가요? (가위:S, 바위:R, 보:P) : ");
-                string player = Console.ReadLine();
+                player = Console.ReadLine();
+                while (!(player == "S" || player == "s" || player == "R" || player == "r" || player == "P" || player == "p")){
+                    Console.WriteLine("잘못 입력하셨습니다.");
+                    Thread.Sleep(500);
+                    Console.Clear();
+                    Console.Write("\n뭘 내실건가요? (가위:S, 바위:R, 보:P) : ");
+                    player = Console.ReadLine();
+                }
                 Console.Clear();
 
                 //컴퓨터
+                //가위 0, 바위 1, 보 2
                 Random rand = new Random();
                 int cpu = CpuChoice(rand.Next(1, 99));
 

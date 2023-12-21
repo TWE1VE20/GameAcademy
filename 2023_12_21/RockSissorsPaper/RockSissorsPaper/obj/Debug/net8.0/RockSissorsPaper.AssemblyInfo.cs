@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RockSissorsPaper")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ad39884e5ceaf35415dd3254be79a1c8318f0f86")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+673a12305d36750b9ddd3710fb2f737d6302af6d")]
 [assembly: System.Reflection.AssemblyProductAttribute("RockSissorsPaper")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RockSissorsPaper")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
