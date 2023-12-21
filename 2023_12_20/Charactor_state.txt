@@ -1,0 +1,61 @@
+namespace CS_assignment
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            int level = 0;
+            int lv_counter = -1;
+            int hp = 690;
+            float attack = 38;
+            float attackSpeed = 0.625f;
+            float defense = 38;
+            float magicDefense = 32;
+            int moveSpeed = 340;
+
+            int qDamage = 50;
+            float qSpeedUp;
+            int wShield = 65;
+            int eDamage = 4;
+            float eSpeed;
+            int rSkill = 450;
+
+            const string name = "가렌";
+            Console.WriteLine($"케릭터 이름 : {name}");
+
+            Console.Write("레벨 : ");
+            /*Console.Write("레벨 : ");
+            while (!(int.TryParse(Console.ReadLine(), out level)))
+                Console.Write("숫자가 아닙니다. 레벨을 다시 입력하세요: ");*/
+            level = int.Parse(Console.ReadLine());
+            lv_counter += level;
+
+            hp += lv_counter * 98;
+            attack += (int)(lv_counter * 4.5f);
+            attackSpeed += (int)(lv_counter * 0.0365f);
+            defense += (int)(lv_counter * 4.2f);
+            magicDefense += (int)(lv_counter * 1.55f);
+            moveSpeed += lv_counter * 0;
+
+
+            Console.WriteLine($"현재 체력 : {hp}");
+            Console.WriteLine($"현재 공격력 : {attack}");
+            Console.WriteLine($"현재 공격스피드 : {attackSpeed,0:F3}");
+            Console.WriteLine($"현재 방어력 : {defense}");
+            Console.WriteLine($"현재 마법방어력 : {magicDefense}");
+            Console.WriteLine($"현재 이동속도 : {moveSpeed}");
+
+            qDamage = (int)(qDamage + attack * 1.5f);
+            qSpeedUp = moveSpeed * 0.35f;
+            wShield = (int)(wShield + hp * 0.18f);
+            eDamage = (int)(eDamage + attack * 0.32f);
+            eSpeed = 7 + (int)(lv_counter * 0.625f / 4);
+            rSkill = (int)(rSkill + attack * 0.25f);
+
+            Console.WriteLine($"Q - 결정타: 공격력 {qDamage}의 데미지를 주고, 이동속도가 {qSpeedUp} 증가합니다");
+            Console.WriteLine($"W - 용기: {wShield}의 방어막을 생성합니다");
+            Console.WriteLine($"E - 심판: 공격력 {eDamage}을 {eSpeed} 횟수만큼 공격합니다");
+            Console.WriteLine($"R - 데마시아 정의: 의 공격력 {rSkill}의 데미지를 줍니다");
+        }
+    }
+}

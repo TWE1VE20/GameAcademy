@@ -1,0 +1,15 @@
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\CSharp-Programing\02. Operator\obj\Debug\net8.0\02. Operator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\CSharp-Programing\02. Operator\obj\Debug\net8.0\02. Operator.AssemblyInfoInputs.cache
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\CSharp-Programing\02. Operator\obj\Debug\net8.0\02. Operator.AssemblyInfo.cs
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\CSharp-Programing\02. Operator\obj\Debug\net8.0\02. Operator.csproj.CoreCompileInputs.cache
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\CSharp-Programing\02. Operator\obj\Debug\net8.0\02. Operator.sourcelink.json
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\CSharp-Programing\02. Operator\bin\Debug\net8.0\02. Operator.exe
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\CSharp-Programing\02. Operator\bin\Debug\net8.0\02. Operator.deps.json
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\CSharp-Programing\02. Operator\bin\Debug\net8.0\02. Operator.runtimeconfig.json
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\CSharp-Programing\02. Operator\bin\Debug\net8.0\02. Operator.dll
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\CSharp-Programing\02. Operator\bin\Debug\net8.0\02. Operator.pdb
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\CSharp-Programing\02. Operator\obj\Debug\net8.0\02. Operator.dll
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\CSharp-Programing\02. Operator\obj\Debug\net8.0\refint\02. Operator.dll
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\CSharp-Programing\02. Operator\obj\Debug\net8.0\02. Operator.pdb
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\CSharp-Programing\02. Operator\obj\Debug\net8.0\02. Operator.genruntimeconfig.cache
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\CSharp-Programing\02. Operator\obj\Debug\net8.0\ref\02. Operator.dll

@@ -1,0 +1,15 @@
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\CSharp-Programing\04. Loop\bin\Debug\net8.0\04. Loop.exe
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\CSharp-Programing\04. Loop\bin\Debug\net8.0\04. Loop.deps.json
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\CSharp-Programing\04. Loop\bin\Debug\net8.0\04. Loop.runtimeconfig.json
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\CSharp-Programing\04. Loop\bin\Debug\net8.0\04. Loop.dll
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\CSharp-Programing\04. Loop\bin\Debug\net8.0\04. Loop.pdb
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\CSharp-Programing\04. Loop\obj\Debug\net8.0\04. Loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\CSharp-Programing\04. Loop\obj\Debug\net8.0\04. Loop.AssemblyInfoInputs.cache
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\CSharp-Programing\04. Loop\obj\Debug\net8.0\04. Loop.AssemblyInfo.cs
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\CSharp-Programing\04. Loop\obj\Debug\net8.0\04. Loop.csproj.CoreCompileInputs.cache
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\CSharp-Programing\04. Loop\obj\Debug\net8.0\04. Loop.sourcelink.json
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\CSharp-Programing\04. Loop\obj\Debug\net8.0\04. Loop.dll
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\CSharp-Programing\04. Loop\obj\Debug\net8.0\refint\04. Loop.dll
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\CSharp-Programing\04. Loop\obj\Debug\net8.0\04. Loop.pdb
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\CSharp-Programing\04. Loop\obj\Debug\net8.0\04. Loop.genruntimeconfig.cache
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\CSharp-Programing\04. Loop\obj\Debug\net8.0\ref\04. Loop.dll

@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("02. Operator")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("04. Loop")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b71b9252dbe254aafb7b65c0d6b8b3432f1e9106")]
-[assembly: System.Reflection.AssemblyProductAttribute("02. Operator")]
-[assembly: System.Reflection.AssemblyTitleAttribute("02. Operator")]
+[assembly: System.Reflection.AssemblyProductAttribute("04. Loop")]
+[assembly: System.Reflection.AssemblyTitleAttribute("04. Loop")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment 클래스에서 생성되었습니다.
