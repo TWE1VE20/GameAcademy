@@ -1,0 +1,15 @@
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2023_12_21\Loop_Star\Loop_Star\bin\Debug\net8.0\Loop_Star.exe
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2023_12_21\Loop_Star\Loop_Star\bin\Debug\net8.0\Loop_Star.deps.json
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2023_12_21\Loop_Star\Loop_Star\bin\Debug\net8.0\Loop_Star.runtimeconfig.json
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2023_12_21\Loop_Star\Loop_Star\bin\Debug\net8.0\Loop_Star.dll
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2023_12_21\Loop_Star\Loop_Star\bin\Debug\net8.0\Loop_Star.pdb
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2023_12_21\Loop_Star\Loop_Star\obj\Debug\net8.0\Loop_Star.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2023_12_21\Loop_Star\Loop_Star\obj\Debug\net8.0\Loop_Star.AssemblyInfoInputs.cache
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2023_12_21\Loop_Star\Loop_Star\obj\Debug\net8.0\Loop_Star.AssemblyInfo.cs
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2023_12_21\Loop_Star\Loop_Star\obj\Debug\net8.0\Loop_Star.csproj.CoreCompileInputs.cache
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2023_12_21\Loop_Star\Loop_Star\obj\Debug\net8.0\Loop_Star.sourcelink.json
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2023_12_21\Loop_Star\Loop_Star\obj\Debug\net8.0\Loop_Star.dll
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2023_12_21\Loop_Star\Loop_Star\obj\Debug\net8.0\refint\Loop_Star.dll
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2023_12_21\Loop_Star\Loop_Star\obj\Debug\net8.0\Loop_Star.pdb
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2023_12_21\Loop_Star\Loop_Star\obj\Debug\net8.0\Loop_Star.genruntimeconfig.cache
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2023_12_21\Loop_Star\Loop_Star\obj\Debug\net8.0\ref\Loop_Star.dll
