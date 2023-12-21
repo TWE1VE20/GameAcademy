@@ -1,0 +1,15 @@
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2023_12_21\RockSissorsPaper\RockSissorsPaper\bin\Debug\net8.0\RockSissorsPaper.exe
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2023_12_21\RockSissorsPaper\RockSissorsPaper\bin\Debug\net8.0\RockSissorsPaper.deps.json
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2023_12_21\RockSissorsPaper\RockSissorsPaper\bin\Debug\net8.0\RockSissorsPaper.runtimeconfig.json
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2023_12_21\RockSissorsPaper\RockSissorsPaper\bin\Debug\net8.0\RockSissorsPaper.dll
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2023_12_21\RockSissorsPaper\RockSissorsPaper\bin\Debug\net8.0\RockSissorsPaper.pdb
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2023_12_21\RockSissorsPaper\RockSissorsPaper\obj\Debug\net8.0\RockSissorsPaper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2023_12_21\RockSissorsPaper\RockSissorsPaper\obj\Debug\net8.0\RockSissorsPaper.AssemblyInfoInputs.cache
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2023_12_21\RockSissorsPaper\RockSissorsPaper\obj\Debug\net8.0\RockSissorsPaper.AssemblyInfo.cs
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2023_12_21\RockSissorsPaper\RockSissorsPaper\obj\Debug\net8.0\RockSissorsPaper.csproj.CoreCompileInputs.cache
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2023_12_21\RockSissorsPaper\RockSissorsPaper\obj\Debug\net8.0\RockSissorsPaper.sourcelink.json
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2023_12_21\RockSissorsPaper\RockSissorsPaper\obj\Debug\net8.0\RockSissorsPaper.dll
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2023_12_21\RockSissorsPaper\RockSissorsPaper\obj\Debug\net8.0\refint\RockSissorsPaper.dll
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2023_12_21\RockSissorsPaper\RockSissorsPaper\obj\Debug\net8.0\RockSissorsPaper.pdb
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2023_12_21\RockSissorsPaper\RockSissorsPaper\obj\Debug\net8.0\RockSissorsPaper.genruntimeconfig.cache
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2023_12_21\RockSissorsPaper\RockSissorsPaper\obj\Debug\net8.0\ref\RockSissorsPaper.dll
