@@ -1,0 +1,15 @@
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\CSharp-Programing\05. Function\bin\Debug\net8.0\05. Function.exe
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\CSharp-Programing\05. Function\bin\Debug\net8.0\05. Function.deps.json
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\CSharp-Programing\05. Function\bin\Debug\net8.0\05. Function.runtimeconfig.json
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\CSharp-Programing\05. Function\bin\Debug\net8.0\05. Function.dll
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\CSharp-Programing\05. Function\bin\Debug\net8.0\05. Function.pdb
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\CSharp-Programing\05. Function\obj\Debug\net8.0\05. Function.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\CSharp-Programing\05. Function\obj\Debug\net8.0\05. Function.AssemblyInfoInputs.cache
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\CSharp-Programing\05. Function\obj\Debug\net8.0\05. Function.AssemblyInfo.cs
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\CSharp-Programing\05. Function\obj\Debug\net8.0\05. Function.csproj.CoreCompileInputs.cache
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\CSharp-Programing\05. Function\obj\Debug\net8.0\05. Function.sourcelink.json
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\CSharp-Programing\05. Function\obj\Debug\net8.0\05. Function.dll
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\CSharp-Programing\05. Function\obj\Debug\net8.0\refint\05. Function.dll
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\CSharp-Programing\05. Function\obj\Debug\net8.0\05. Function.pdb
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\CSharp-Programing\05. Function\obj\Debug\net8.0\05. Function.genruntimeconfig.cache
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\CSharp-Programing\05. Function\obj\Debug\net8.0\ref\05. Function.dll
