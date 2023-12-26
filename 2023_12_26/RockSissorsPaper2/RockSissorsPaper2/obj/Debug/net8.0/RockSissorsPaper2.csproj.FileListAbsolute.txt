@@ -1,0 +1,15 @@
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2023_12_26\RockSissorsPaper2\RockSissorsPaper2\bin\Debug\net8.0\RockSissorsPaper2.exe
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2023_12_26\RockSissorsPaper2\RockSissorsPaper2\bin\Debug\net8.0\RockSissorsPaper2.deps.json
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2023_12_26\RockSissorsPaper2\RockSissorsPaper2\bin\Debug\net8.0\RockSissorsPaper2.runtimeconfig.json
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2023_12_26\RockSissorsPaper2\RockSissorsPaper2\bin\Debug\net8.0\RockSissorsPaper2.dll
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2023_12_26\RockSissorsPaper2\RockSissorsPaper2\bin\Debug\net8.0\RockSissorsPaper2.pdb
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2023_12_26\RockSissorsPaper2\RockSissorsPaper2\obj\Debug\net8.0\RockSissorsPaper2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2023_12_26\RockSissorsPaper2\RockSissorsPaper2\obj\Debug\net8.0\RockSissorsPaper2.AssemblyInfoInputs.cache
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2023_12_26\RockSissorsPaper2\RockSissorsPaper2\obj\Debug\net8.0\RockSissorsPaper2.AssemblyInfo.cs
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2023_12_26\RockSissorsPaper2\RockSissorsPaper2\obj\Debug\net8.0\RockSissorsPaper2.csproj.CoreCompileInputs.cache
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2023_12_26\RockSissorsPaper2\RockSissorsPaper2\obj\Debug\net8.0\RockSissorsPaper2.sourcelink.json
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2023_12_26\RockSissorsPaper2\RockSissorsPaper2\obj\Debug\net8.0\RockSissorsPaper2.dll
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2023_12_26\RockSissorsPaper2\RockSissorsPaper2\obj\Debug\net8.0\refint\RockSissorsPaper2.dll
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2023_12_26\RockSissorsPaper2\RockSissorsPaper2\obj\Debug\net8.0\RockSissorsPaper2.pdb
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2023_12_26\RockSissorsPaper2\RockSissorsPaper2\obj\Debug\net8.0\RockSissorsPaper2.genruntimeconfig.cache
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2023_12_26\RockSissorsPaper2\RockSissorsPaper2\obj\Debug\net8.0\ref\RockSissorsPaper2.dll

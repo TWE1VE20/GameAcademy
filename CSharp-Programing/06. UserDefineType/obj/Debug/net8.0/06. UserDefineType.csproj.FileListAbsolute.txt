@@ -1,0 +1,15 @@
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\CSharp-Programing\06. UserDefineType\bin\Debug\net8.0\06. UserDefineType.exe
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\CSharp-Programing\06. UserDefineType\bin\Debug\net8.0\06. UserDefineType.deps.json
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\CSharp-Programing\06. UserDefineType\bin\Debug\net8.0\06. UserDefineType.runtimeconfig.json
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\CSharp-Programing\06. UserDefineType\bin\Debug\net8.0\06. UserDefineType.dll
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\CSharp-Programing\06. UserDefineType\bin\Debug\net8.0\06. UserDefineType.pdb
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\CSharp-Programing\06. UserDefineType\obj\Debug\net8.0\06. UserDefineType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\CSharp-Programing\06. UserDefineType\obj\Debug\net8.0\06. UserDefineType.AssemblyInfoInputs.cache
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\CSharp-Programing\06. UserDefineType\obj\Debug\net8.0\06. UserDefineType.AssemblyInfo.cs
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\CSharp-Programing\06. UserDefineType\obj\Debug\net8.0\06. UserDefineType.csproj.CoreCompileInputs.cache
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\CSharp-Programing\06. UserDefineType\obj\Debug\net8.0\06. UserDefineType.sourcelink.json
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\CSharp-Programing\06. UserDefineType\obj\Debug\net8.0\06. UserDefineType.dll
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\CSharp-Programing\06. UserDefineType\obj\Debug\net8.0\refint\06. UserDefineType.dll
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\CSharp-Programing\06. UserDefineType\obj\Debug\net8.0\06. UserDefineType.pdb
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\CSharp-Programing\06. UserDefineType\obj\Debug\net8.0\06. UserDefineType.genruntimeconfig.cache
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\CSharp-Programing\06. UserDefineType\obj\Debug\net8.0\ref\06. UserDefineType.dll

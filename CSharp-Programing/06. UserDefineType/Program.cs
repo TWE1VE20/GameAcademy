@@ -106,6 +106,7 @@
                 this.y = 0;
             }*/
 
+            //struct와 같은 이름의 함수를 만들면 이는 struct의 초기화 함수가 된다.
             public Point(int x, int y)
             {
                 // 초기화에서 모든 구조체 변수를 초기화하지 않으면 error 발생

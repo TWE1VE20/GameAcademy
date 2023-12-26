@@ -15,9 +15,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Conditional", "..\..\CS
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04. Loop", "..\..\CSharp-Programing\04. Loop\04. Loop.csproj", "{5CFFEDE4-BDC8-4701-9208-F7DFE97766D2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Function", "..\..\CSharp-Programing\05. Function\05. Function.csproj", "{F0BE0A35-362A-4CE1-B5E5-9388051F1922}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05. Function", "..\..\CSharp-Programing\05. Function\05. Function.csproj", "{F0BE0A35-362A-4CE1-B5E5-9388051F1922}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. UserDefineType", "..\..\CSharp-Programing\06. UserDefineType\06. UserDefineType.csproj", "{5DBB5E97-1932-40A4-AEF3-2CAED828F693}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06. UserDefineType", "..\..\CSharp-Programing\06. UserDefineType\06. UserDefineType.csproj", "{5DBB5E97-1932-40A4-AEF3-2CAED828F693}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Class", "..\..\CSharp-Programing\07. Class\07. Class.csproj", "{479610CA-1E96-46C1-AAD8-7198568F5100}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{5DBB5E97-1932-40A4-AEF3-2CAED828F693}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5DBB5E97-1932-40A4-AEF3-2CAED828F693}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5DBB5E97-1932-40A4-AEF3-2CAED828F693}.Release|Any CPU.Build.0 = Release|Any CPU
+		{479610CA-1E96-46C1-AAD8-7198568F5100}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{479610CA-1E96-46C1-AAD8-7198568F5100}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{479610CA-1E96-46C1-AAD8-7198568F5100}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{479610CA-1E96-46C1-AAD8-7198568F5100}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
