@@ -1,0 +1,15 @@
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2023_12_28\CarDrive\CarDrive\bin\Debug\net8.0\CarDrive.exe
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2023_12_28\CarDrive\CarDrive\bin\Debug\net8.0\CarDrive.deps.json
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2023_12_28\CarDrive\CarDrive\bin\Debug\net8.0\CarDrive.runtimeconfig.json
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2023_12_28\CarDrive\CarDrive\bin\Debug\net8.0\CarDrive.dll
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2023_12_28\CarDrive\CarDrive\bin\Debug\net8.0\CarDrive.pdb
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2023_12_28\CarDrive\CarDrive\obj\Debug\net8.0\CarDrive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2023_12_28\CarDrive\CarDrive\obj\Debug\net8.0\CarDrive.AssemblyInfoInputs.cache
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2023_12_28\CarDrive\CarDrive\obj\Debug\net8.0\CarDrive.AssemblyInfo.cs
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2023_12_28\CarDrive\CarDrive\obj\Debug\net8.0\CarDrive.csproj.CoreCompileInputs.cache
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2023_12_28\CarDrive\CarDrive\obj\Debug\net8.0\CarDrive.sourcelink.json
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2023_12_28\CarDrive\CarDrive\obj\Debug\net8.0\CarDrive.dll
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2023_12_28\CarDrive\CarDrive\obj\Debug\net8.0\refint\CarDrive.dll
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2023_12_28\CarDrive\CarDrive\obj\Debug\net8.0\CarDrive.pdb
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2023_12_28\CarDrive\CarDrive\obj\Debug\net8.0\CarDrive.genruntimeconfig.cache
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2023_12_28\CarDrive\CarDrive\obj\Debug\net8.0\ref\CarDrive.dll

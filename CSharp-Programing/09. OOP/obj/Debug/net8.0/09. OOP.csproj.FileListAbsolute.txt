@@ -1,0 +1,15 @@
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\CSharp-Programing\09. OOP\obj\Debug\net8.0\09. OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\CSharp-Programing\09. OOP\obj\Debug\net8.0\09. OOP.AssemblyInfoInputs.cache
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\CSharp-Programing\09. OOP\obj\Debug\net8.0\09. OOP.AssemblyInfo.cs
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\CSharp-Programing\09. OOP\obj\Debug\net8.0\09. OOP.csproj.CoreCompileInputs.cache
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\CSharp-Programing\09. OOP\obj\Debug\net8.0\09. OOP.sourcelink.json
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\CSharp-Programing\09. OOP\bin\Debug\net8.0\09. OOP.exe
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\CSharp-Programing\09. OOP\bin\Debug\net8.0\09. OOP.deps.json
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\CSharp-Programing\09. OOP\bin\Debug\net8.0\09. OOP.runtimeconfig.json
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\CSharp-Programing\09. OOP\bin\Debug\net8.0\09. OOP.dll
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\CSharp-Programing\09. OOP\bin\Debug\net8.0\09. OOP.pdb
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\CSharp-Programing\09. OOP\obj\Debug\net8.0\09. OOP.dll
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\CSharp-Programing\09. OOP\obj\Debug\net8.0\refint\09. OOP.dll
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\CSharp-Programing\09. OOP\obj\Debug\net8.0\09. OOP.pdb
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\CSharp-Programing\09. OOP\obj\Debug\net8.0\09. OOP.genruntimeconfig.cache
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\CSharp-Programing\09. OOP\obj\Debug\net8.0\ref\09. OOP.dll

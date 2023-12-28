@@ -21,7 +21,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06. UserDefineType", "..\..
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07. Class", "..\..\CSharp-Programing\07. Class\07. Class.csproj", "{479610CA-1E96-46C1-AAD8-7198568F5100}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08. Memory", "..\..\CSharp-Programing\08. Memory\08. Memory.csproj", "{1F807621-D226-4A60-8601-B8723C37C06C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08. Memory", "..\..\CSharp-Programing\08. Memory\08. Memory.csproj", "{1F807621-D226-4A60-8601-B8723C37C06C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09. OOP", "..\..\CSharp-Programing\09. OOP\09. OOP.csproj", "{5815B9A8-2998-40C2-ADD5-063F0B0423F4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,10 @@ Global
 		{1F807621-D226-4A60-8601-B8723C37C06C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1F807621-D226-4A60-8601-B8723C37C06C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1F807621-D226-4A60-8601-B8723C37C06C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5815B9A8-2998-40C2-ADD5-063F0B0423F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5815B9A8-2998-40C2-ADD5-063F0B0423F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5815B9A8-2998-40C2-ADD5-063F0B0423F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5815B9A8-2998-40C2-ADD5-063F0B0423F4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
