@@ -1,0 +1,15 @@
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2023_12_28\Monsters\Monsters\bin\Debug\net8.0\Monsters.exe
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2023_12_28\Monsters\Monsters\bin\Debug\net8.0\Monsters.deps.json
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2023_12_28\Monsters\Monsters\bin\Debug\net8.0\Monsters.runtimeconfig.json
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2023_12_28\Monsters\Monsters\bin\Debug\net8.0\Monsters.dll
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2023_12_28\Monsters\Monsters\bin\Debug\net8.0\Monsters.pdb
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2023_12_28\Monsters\Monsters\obj\Debug\net8.0\Monsters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2023_12_28\Monsters\Monsters\obj\Debug\net8.0\Monsters.AssemblyInfoInputs.cache
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2023_12_28\Monsters\Monsters\obj\Debug\net8.0\Monsters.AssemblyInfo.cs
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2023_12_28\Monsters\Monsters\obj\Debug\net8.0\Monsters.csproj.CoreCompileInputs.cache
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2023_12_28\Monsters\Monsters\obj\Debug\net8.0\Monsters.sourcelink.json
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2023_12_28\Monsters\Monsters\obj\Debug\net8.0\Monsters.dll
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2023_12_28\Monsters\Monsters\obj\Debug\net8.0\refint\Monsters.dll
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2023_12_28\Monsters\Monsters\obj\Debug\net8.0\Monsters.pdb
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2023_12_28\Monsters\Monsters\obj\Debug\net8.0\Monsters.genruntimeconfig.cache
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2023_12_28\Monsters\Monsters\obj\Debug\net8.0\ref\Monsters.dll
