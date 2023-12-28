@@ -1,0 +1,15 @@
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2023_12_28\GameCharClass\GameCharClass\bin\Debug\net8.0\GameCharClass.exe
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2023_12_28\GameCharClass\GameCharClass\bin\Debug\net8.0\GameCharClass.deps.json
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2023_12_28\GameCharClass\GameCharClass\bin\Debug\net8.0\GameCharClass.runtimeconfig.json
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2023_12_28\GameCharClass\GameCharClass\bin\Debug\net8.0\GameCharClass.dll
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2023_12_28\GameCharClass\GameCharClass\bin\Debug\net8.0\GameCharClass.pdb
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2023_12_28\GameCharClass\GameCharClass\obj\Debug\net8.0\GameCharClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2023_12_28\GameCharClass\GameCharClass\obj\Debug\net8.0\GameCharClass.AssemblyInfoInputs.cache
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2023_12_28\GameCharClass\GameCharClass\obj\Debug\net8.0\GameCharClass.AssemblyInfo.cs
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2023_12_28\GameCharClass\GameCharClass\obj\Debug\net8.0\GameCharClass.csproj.CoreCompileInputs.cache
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2023_12_28\GameCharClass\GameCharClass\obj\Debug\net8.0\GameCharClass.sourcelink.json
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2023_12_28\GameCharClass\GameCharClass\obj\Debug\net8.0\GameCharClass.dll
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2023_12_28\GameCharClass\GameCharClass\obj\Debug\net8.0\refint\GameCharClass.dll
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2023_12_28\GameCharClass\GameCharClass\obj\Debug\net8.0\GameCharClass.pdb
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2023_12_28\GameCharClass\GameCharClass\obj\Debug\net8.0\GameCharClass.genruntimeconfig.cache
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2023_12_28\GameCharClass\GameCharClass\obj\Debug\net8.0\ref\GameCharClass.dll
