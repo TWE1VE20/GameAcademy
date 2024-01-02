@@ -97,6 +97,7 @@ namespace _09._OOP
             // 다운캐스팅 : 부모클래스는 자식클래스 자료형으로 명시적 형변환 가능 (단, 가능할 경우)
             Dragon d = (Dragon)monster;
             // Slime s = (Slime)monster;            // error : 인스턴스가 Slime이 아니기 때문에 변환시 오류
+            // Slime을 업캐스팅을 하고 다운캐스팅 하는것은 문제가 없지만, 원래 부모였던 클래스를 다운캐스팅 한다면 문제가 생깃 수 있다.
 
             if (monster is Dragon)                  // 형변환이 가능한지 확인
             {
