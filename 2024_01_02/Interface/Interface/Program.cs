@@ -153,7 +153,6 @@
         static void Main(string[] args)
         {
             Item[] inventory = new Item[5];
-            Item[] Oderedeinventory = new Item[5];
 
             Player player = new Player();
 
