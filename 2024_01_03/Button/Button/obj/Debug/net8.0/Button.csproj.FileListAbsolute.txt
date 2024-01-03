@@ -1,0 +1,15 @@
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2024_01_03\Button\Button\obj\Debug\net8.0\Button.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2024_01_03\Button\Button\obj\Debug\net8.0\Button.AssemblyInfoInputs.cache
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2024_01_03\Button\Button\obj\Debug\net8.0\Button.AssemblyInfo.cs
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2024_01_03\Button\Button\obj\Debug\net8.0\Button.csproj.CoreCompileInputs.cache
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2024_01_03\Button\Button\obj\Debug\net8.0\Button.sourcelink.json
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2024_01_03\Button\Button\bin\Debug\net8.0\Button.exe
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2024_01_03\Button\Button\bin\Debug\net8.0\Button.deps.json
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2024_01_03\Button\Button\bin\Debug\net8.0\Button.runtimeconfig.json
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2024_01_03\Button\Button\bin\Debug\net8.0\Button.dll
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2024_01_03\Button\Button\bin\Debug\net8.0\Button.pdb
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2024_01_03\Button\Button\obj\Debug\net8.0\Button.dll
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2024_01_03\Button\Button\obj\Debug\net8.0\refint\Button.dll
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2024_01_03\Button\Button\obj\Debug\net8.0\Button.pdb
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2024_01_03\Button\Button\obj\Debug\net8.0\Button.genruntimeconfig.cache
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2024_01_03\Button\Button\obj\Debug\net8.0\ref\Button.dll

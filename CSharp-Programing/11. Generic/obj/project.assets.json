@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\메타플밍5기\\Documents\\GIT\\GameAcademy\\CSharp-Programing\\11. Generic\\11. Generic.csproj",
-      "projectName": "11. Generic",
-      "projectPath": "C:\\Users\\메타플밍5기\\Documents\\GIT\\GameAcademy\\CSharp-Programing\\11. Generic\\11. Generic.csproj",
+      "projectUniqueName": "C:\\Users\\메타플밍5기\\Documents\\GIT\\GameAcademy\\CSharp-Programing\\11. Generic\\12. Generic.csproj",
+      "projectName": "12. Generic",
+      "projectPath": "C:\\Users\\메타플밍5기\\Documents\\GIT\\GameAcademy\\CSharp-Programing\\11. Generic\\12. Generic.csproj",
       "packagesPath": "C:\\Users\\메타플밍5기\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\메타플밍5기\\Documents\\GIT\\GameAcademy\\CSharp-Programing\\11. Generic\\obj\\",
       "projectStyle": "PackageReference",

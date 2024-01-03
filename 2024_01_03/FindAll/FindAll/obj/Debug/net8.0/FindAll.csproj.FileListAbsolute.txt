@@ -1,0 +1,15 @@
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2024_01_03\FindAll\FindAll\bin\Debug\net8.0\FindAll.exe
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2024_01_03\FindAll\FindAll\bin\Debug\net8.0\FindAll.deps.json
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2024_01_03\FindAll\FindAll\bin\Debug\net8.0\FindAll.runtimeconfig.json
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2024_01_03\FindAll\FindAll\bin\Debug\net8.0\FindAll.dll
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2024_01_03\FindAll\FindAll\bin\Debug\net8.0\FindAll.pdb
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2024_01_03\FindAll\FindAll\obj\Debug\net8.0\FindAll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2024_01_03\FindAll\FindAll\obj\Debug\net8.0\FindAll.AssemblyInfoInputs.cache
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2024_01_03\FindAll\FindAll\obj\Debug\net8.0\FindAll.AssemblyInfo.cs
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2024_01_03\FindAll\FindAll\obj\Debug\net8.0\FindAll.csproj.CoreCompileInputs.cache
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2024_01_03\FindAll\FindAll\obj\Debug\net8.0\FindAll.sourcelink.json
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2024_01_03\FindAll\FindAll\obj\Debug\net8.0\FindAll.dll
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2024_01_03\FindAll\FindAll\obj\Debug\net8.0\refint\FindAll.dll
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2024_01_03\FindAll\FindAll\obj\Debug\net8.0\FindAll.pdb
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2024_01_03\FindAll\FindAll\obj\Debug\net8.0\FindAll.genruntimeconfig.cache
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2024_01_03\FindAll\FindAll\obj\Debug\net8.0\ref\FindAll.dll
