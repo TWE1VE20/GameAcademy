@@ -1,0 +1,15 @@
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\CSharp-Programing\12. Exception\bin\Debug\net8.0\12. Exception.exe
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\CSharp-Programing\12. Exception\bin\Debug\net8.0\12. Exception.deps.json
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\CSharp-Programing\12. Exception\bin\Debug\net8.0\12. Exception.runtimeconfig.json
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\CSharp-Programing\12. Exception\bin\Debug\net8.0\12. Exception.dll
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\CSharp-Programing\12. Exception\bin\Debug\net8.0\12. Exception.pdb
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\CSharp-Programing\12. Exception\obj\Debug\net8.0\12. Exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\CSharp-Programing\12. Exception\obj\Debug\net8.0\12. Exception.AssemblyInfoInputs.cache
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\CSharp-Programing\12. Exception\obj\Debug\net8.0\12. Exception.AssemblyInfo.cs
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\CSharp-Programing\12. Exception\obj\Debug\net8.0\12. Exception.csproj.CoreCompileInputs.cache
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\CSharp-Programing\12. Exception\obj\Debug\net8.0\12. Exception.sourcelink.json
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\CSharp-Programing\12. Exception\obj\Debug\net8.0\12. Exception.dll
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\CSharp-Programing\12. Exception\obj\Debug\net8.0\refint\12. Exception.dll
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\CSharp-Programing\12. Exception\obj\Debug\net8.0\12. Exception.pdb
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\CSharp-Programing\12. Exception\obj\Debug\net8.0\12. Exception.genruntimeconfig.cache
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\CSharp-Programing\12. Exception\obj\Debug\net8.0\ref\12. Exception.dll

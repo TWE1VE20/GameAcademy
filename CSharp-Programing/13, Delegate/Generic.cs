@@ -42,6 +42,7 @@ namespace _13._Delegate
 
         // <Predicate 델리게이트>
         // 반환형이 bool, 매개변수가 하나인 델리게이트
+        // C# 2.0 이전부터 사용된 deligate임으로 컴파일러의 기능들이 Predicate를 자주 사용되어 있다.
         bool IsSentence(string str) { return str.Contains(' '); }
 
         void Main3()

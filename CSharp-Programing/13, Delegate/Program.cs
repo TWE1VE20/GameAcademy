@@ -30,6 +30,8 @@
             DelegateMethod1 delegate1 = new DelegateMethod1(Plus);  // 델리게이트 인스턴스 생성
             DelegateMethod2 delegate2 = Message;                    // 간략한 문법의 델리게이트 인스턴스 생성
 
+            // delegate는 class형이기에 Invoke를 통해 class를 부르듯 사용하는것도 가능하지만
+            // 변수처럼 써도 같은 역할을 할 수 있도록 제작되어 있다.
             delegate1.Invoke(20, 10);   // Plus(20, 10);            // Invoke를 통해 참조되어 있는 함수를 호출
             delegate2("메세지");        // Message("메세지");       // 간략한 문법의 델리게이트 함수 호출
 
