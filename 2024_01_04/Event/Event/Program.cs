@@ -4,6 +4,7 @@
     {
         public class Player
         {
+            protected int hp = 100;
             public event Action OnGetCoin;
             public event Action OnDamaged;
 
@@ -38,8 +39,13 @@
             {
                 Console.WriteLine("플레이어가 데미지를 받음.");
 
-                if (OnDamaged != null)
+                if (OnDamaged != null) 
+                {
                     OnDamaged();
+                    return;
+                }
+                this.hp -= damage;
+                Console.WriteLine($"플레이어 HP: {hp}");
             }
 
         }
@@ -69,12 +75,14 @@
             public void UnEquip()
             {
                 Console.WriteLine("방어구가 해제되었습니다.");
+                owner.OnDamaged -= this.OnDamage;
                 this.owner.UnEquip(this);
             }
 
             public void OnDamage()
             {
                 durability -= 1;
+                Console.WriteLine($"방어구 내구도: {durability}");
                 if (durability <= 0)
                     this.UnEquip();
             }
@@ -97,9 +105,7 @@
             equip.Equip(player);
             for(int i = 0; i < 10; i++)
                 player.TakeDamage(1);
-
-
-
+            player.TakeDamage(10);
 
             try
             {
