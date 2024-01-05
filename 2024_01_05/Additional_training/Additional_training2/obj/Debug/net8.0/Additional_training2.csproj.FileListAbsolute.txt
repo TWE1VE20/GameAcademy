@@ -1,0 +1,15 @@
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2024_01_05\Additional_training\Additional_training2\obj\Debug\net8.0\Additional_training2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2024_01_05\Additional_training\Additional_training2\obj\Debug\net8.0\Additional_training2.AssemblyInfoInputs.cache
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2024_01_05\Additional_training\Additional_training2\obj\Debug\net8.0\Additional_training2.AssemblyInfo.cs
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2024_01_05\Additional_training\Additional_training2\obj\Debug\net8.0\Additional_training2.csproj.CoreCompileInputs.cache
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2024_01_05\Additional_training\Additional_training2\obj\Debug\net8.0\Additional_training2.sourcelink.json
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2024_01_05\Additional_training\Additional_training2\bin\Debug\net8.0\Additional_training2.exe
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2024_01_05\Additional_training\Additional_training2\bin\Debug\net8.0\Additional_training2.deps.json
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2024_01_05\Additional_training\Additional_training2\bin\Debug\net8.0\Additional_training2.runtimeconfig.json
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2024_01_05\Additional_training\Additional_training2\bin\Debug\net8.0\Additional_training2.dll
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2024_01_05\Additional_training\Additional_training2\bin\Debug\net8.0\Additional_training2.pdb
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2024_01_05\Additional_training\Additional_training2\obj\Debug\net8.0\Additional_training2.dll
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2024_01_05\Additional_training\Additional_training2\obj\Debug\net8.0\refint\Additional_training2.dll
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2024_01_05\Additional_training\Additional_training2\obj\Debug\net8.0\Additional_training2.pdb
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2024_01_05\Additional_training\Additional_training2\obj\Debug\net8.0\Additional_training2.genruntimeconfig.cache
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2024_01_05\Additional_training\Additional_training2\obj\Debug\net8.0\ref\Additional_training2.dll

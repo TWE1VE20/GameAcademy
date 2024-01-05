@@ -117,7 +117,7 @@ namespace _14._Event
                     // 사건이 발생한 시점에 이벤트를 등록한 객체들의 함수를 호출
                     // 이벤트로 구성할 경우 새로운 기능이 추가되어도 수정할 필요가 없음
                     if (OnChangeHP != null)
-                        OnChangeHP(hp);
+                        OnChangeHP(hp);     //OnChangeHP.Invoke(hp)
                 }
             }
 

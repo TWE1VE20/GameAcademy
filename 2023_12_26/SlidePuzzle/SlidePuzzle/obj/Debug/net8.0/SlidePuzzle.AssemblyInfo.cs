@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SlidePuzzle")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2173d75430ac9fed2e58d68251ed2c0a60807d87")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+67c6f8d8965caceae5d7383558435303314e8cb2")]
 [assembly: System.Reflection.AssemblyProductAttribute("SlidePuzzle")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SlidePuzzle")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
