@@ -1,0 +1,15 @@
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2024_01_08\CS_Applications_Test\CS_Applications_Test\bin\Debug\net8.0\CS_Applications_Test.exe
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2024_01_08\CS_Applications_Test\CS_Applications_Test\bin\Debug\net8.0\CS_Applications_Test.deps.json
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2024_01_08\CS_Applications_Test\CS_Applications_Test\bin\Debug\net8.0\CS_Applications_Test.runtimeconfig.json
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2024_01_08\CS_Applications_Test\CS_Applications_Test\bin\Debug\net8.0\CS_Applications_Test.dll
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2024_01_08\CS_Applications_Test\CS_Applications_Test\bin\Debug\net8.0\CS_Applications_Test.pdb
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2024_01_08\CS_Applications_Test\CS_Applications_Test\obj\Debug\net8.0\CS_Applications_Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2024_01_08\CS_Applications_Test\CS_Applications_Test\obj\Debug\net8.0\CS_Applications_Test.AssemblyInfoInputs.cache
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2024_01_08\CS_Applications_Test\CS_Applications_Test\obj\Debug\net8.0\CS_Applications_Test.AssemblyInfo.cs
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2024_01_08\CS_Applications_Test\CS_Applications_Test\obj\Debug\net8.0\CS_Applications_Test.csproj.CoreCompileInputs.cache
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2024_01_08\CS_Applications_Test\CS_Applications_Test\obj\Debug\net8.0\CS_Applications_Test.sourcelink.json
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2024_01_08\CS_Applications_Test\CS_Applications_Test\obj\Debug\net8.0\CS_Applications_Test.dll
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2024_01_08\CS_Applications_Test\CS_Applications_Test\obj\Debug\net8.0\refint\CS_Applications_Test.dll
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2024_01_08\CS_Applications_Test\CS_Applications_Test\obj\Debug\net8.0\CS_Applications_Test.pdb
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2024_01_08\CS_Applications_Test\CS_Applications_Test\obj\Debug\net8.0\CS_Applications_Test.genruntimeconfig.cache
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2024_01_08\CS_Applications_Test\CS_Applications_Test\obj\Debug\net8.0\ref\CS_Applications_Test.dll

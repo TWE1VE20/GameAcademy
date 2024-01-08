@@ -1,0 +1,15 @@
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2024_01_08\CS_Applications_Test\ShopGame\obj\Debug\net8.0\ShopGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2024_01_08\CS_Applications_Test\ShopGame\obj\Debug\net8.0\ShopGame.AssemblyInfoInputs.cache
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2024_01_08\CS_Applications_Test\ShopGame\obj\Debug\net8.0\ShopGame.AssemblyInfo.cs
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2024_01_08\CS_Applications_Test\ShopGame\obj\Debug\net8.0\ShopGame.csproj.CoreCompileInputs.cache
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2024_01_08\CS_Applications_Test\ShopGame\obj\Debug\net8.0\ShopGame.sourcelink.json
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2024_01_08\CS_Applications_Test\ShopGame\bin\Debug\net8.0\ShopGame.exe
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2024_01_08\CS_Applications_Test\ShopGame\bin\Debug\net8.0\ShopGame.deps.json
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2024_01_08\CS_Applications_Test\ShopGame\bin\Debug\net8.0\ShopGame.runtimeconfig.json
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2024_01_08\CS_Applications_Test\ShopGame\bin\Debug\net8.0\ShopGame.dll
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2024_01_08\CS_Applications_Test\ShopGame\bin\Debug\net8.0\ShopGame.pdb
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2024_01_08\CS_Applications_Test\ShopGame\obj\Debug\net8.0\ShopGame.dll
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2024_01_08\CS_Applications_Test\ShopGame\obj\Debug\net8.0\refint\ShopGame.dll
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2024_01_08\CS_Applications_Test\ShopGame\obj\Debug\net8.0\ShopGame.pdb
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2024_01_08\CS_Applications_Test\ShopGame\obj\Debug\net8.0\ShopGame.genruntimeconfig.cache
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2024_01_08\CS_Applications_Test\ShopGame\obj\Debug\net8.0\ref\ShopGame.dll

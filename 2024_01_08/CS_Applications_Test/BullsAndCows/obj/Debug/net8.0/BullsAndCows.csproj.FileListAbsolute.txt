@@ -1,0 +1,15 @@
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2024_01_08\CS_Applications_Test\BullsAndCows\bin\Debug\net8.0\BullsAndCows.exe
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2024_01_08\CS_Applications_Test\BullsAndCows\bin\Debug\net8.0\BullsAndCows.deps.json
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2024_01_08\CS_Applications_Test\BullsAndCows\bin\Debug\net8.0\BullsAndCows.runtimeconfig.json
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2024_01_08\CS_Applications_Test\BullsAndCows\bin\Debug\net8.0\BullsAndCows.dll
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2024_01_08\CS_Applications_Test\BullsAndCows\bin\Debug\net8.0\BullsAndCows.pdb
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2024_01_08\CS_Applications_Test\BullsAndCows\obj\Debug\net8.0\BullsAndCows.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2024_01_08\CS_Applications_Test\BullsAndCows\obj\Debug\net8.0\BullsAndCows.AssemblyInfoInputs.cache
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2024_01_08\CS_Applications_Test\BullsAndCows\obj\Debug\net8.0\BullsAndCows.AssemblyInfo.cs
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2024_01_08\CS_Applications_Test\BullsAndCows\obj\Debug\net8.0\BullsAndCows.csproj.CoreCompileInputs.cache
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2024_01_08\CS_Applications_Test\BullsAndCows\obj\Debug\net8.0\BullsAndCows.sourcelink.json
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2024_01_08\CS_Applications_Test\BullsAndCows\obj\Debug\net8.0\BullsAndCows.dll
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2024_01_08\CS_Applications_Test\BullsAndCows\obj\Debug\net8.0\refint\BullsAndCows.dll
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2024_01_08\CS_Applications_Test\BullsAndCows\obj\Debug\net8.0\BullsAndCows.pdb
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2024_01_08\CS_Applications_Test\BullsAndCows\obj\Debug\net8.0\BullsAndCows.genruntimeconfig.cache
+C:\Users\메타플밍5기\Documents\GIT\GameAcademy\2024_01_08\CS_Applications_Test\BullsAndCows\obj\Debug\net8.0\ref\BullsAndCows.dll
