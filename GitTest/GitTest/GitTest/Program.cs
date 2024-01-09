@@ -8,5 +8,12 @@
         {
             Console.WriteLine("Hello, World!");     // 설명 추가
         }
+
+        public void Skill()
+        {
+            //
+            //
+            //
+        }
     }
 }
