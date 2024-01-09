@@ -2,7 +2,8 @@
 {
     internal class Program
     {
-        public int hp1;
+        public int hp;
+        public int mp;
 
         static void Main(string[] args)
         {
