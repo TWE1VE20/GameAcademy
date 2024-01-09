@@ -11,7 +11,7 @@
 
         public void Skill()
         {
-            //
+            //스킬 추가
             //
             //
         }
