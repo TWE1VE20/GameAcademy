@@ -2,7 +2,7 @@
 {
     internal class Program
     {
-        public int hp;
+        public int hp1;
 
         static void Main(string[] args)
         {
