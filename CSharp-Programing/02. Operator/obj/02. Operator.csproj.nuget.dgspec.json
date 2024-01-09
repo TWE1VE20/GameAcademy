@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\메타플밍5기\\Documents\\GIT\\GameAcademy\\CSharp-Programing\\02. Operator\\02. Operator.csproj": {}
+    "C:\\Users\\메타플밍5기\\Documents\\GameAcademy\\CSharp-Programing\\02. Operator\\02. Operator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\메타플밍5기\\Documents\\GIT\\GameAcademy\\CSharp-Programing\\02. Operator\\02. Operator.csproj": {
+    "C:\\Users\\메타플밍5기\\Documents\\GameAcademy\\CSharp-Programing\\02. Operator\\02. Operator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\메타플밍5기\\Documents\\GIT\\GameAcademy\\CSharp-Programing\\02. Operator\\02. Operator.csproj",
+        "projectUniqueName": "C:\\Users\\메타플밍5기\\Documents\\GameAcademy\\CSharp-Programing\\02. Operator\\02. Operator.csproj",
         "projectName": "02. Operator",
-        "projectPath": "C:\\Users\\메타플밍5기\\Documents\\GIT\\GameAcademy\\CSharp-Programing\\02. Operator\\02. Operator.csproj",
+        "projectPath": "C:\\Users\\메타플밍5기\\Documents\\GameAcademy\\CSharp-Programing\\02. Operator\\02. Operator.csproj",
         "packagesPath": "C:\\Users\\메타플밍5기\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\메타플밍5기\\Documents\\GIT\\GameAcademy\\CSharp-Programing\\02. Operator\\obj\\",
+        "outputPath": "C:\\Users\\메타플밍5기\\Documents\\GameAcademy\\CSharp-Programing\\02. Operator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\메타플밍5기\\AppData\\Roaming\\NuGet\\NuGet.Config",

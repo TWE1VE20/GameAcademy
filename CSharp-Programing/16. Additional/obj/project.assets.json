@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\메타플밍5기\\Documents\\GIT\\GameAcademy\\CSharp-Programing\\16. Additional\\16. Additional.csproj",
+      "projectUniqueName": "C:\\Users\\메타플밍5기\\Documents\\GameAcademy\\CSharp-Programing\\16. Additional\\16. Additional.csproj",
       "projectName": "16. Additional",
-      "projectPath": "C:\\Users\\메타플밍5기\\Documents\\GIT\\GameAcademy\\CSharp-Programing\\16. Additional\\16. Additional.csproj",
+      "projectPath": "C:\\Users\\메타플밍5기\\Documents\\GameAcademy\\CSharp-Programing\\16. Additional\\16. Additional.csproj",
       "packagesPath": "C:\\Users\\메타플밍5기\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\메타플밍5기\\Documents\\GIT\\GameAcademy\\CSharp-Programing\\16. Additional\\obj\\",
+      "outputPath": "C:\\Users\\메타플밍5기\\Documents\\GameAcademy\\CSharp-Programing\\16. Additional\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\메타플밍5기\\AppData\\Roaming\\NuGet\\NuGet.Config",

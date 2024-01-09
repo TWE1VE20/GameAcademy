@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\메타플밍5기\\Documents\\GIT\\GameAcademy\\CSharp-Programing\\12. Exception\\12. Exception.csproj",
+      "projectUniqueName": "C:\\Users\\메타플밍5기\\Documents\\GameAcademy\\CSharp-Programing\\12. Exception\\12. Exception.csproj",
       "projectName": "12. Exception",
-      "projectPath": "C:\\Users\\메타플밍5기\\Documents\\GIT\\GameAcademy\\CSharp-Programing\\12. Exception\\12. Exception.csproj",
+      "projectPath": "C:\\Users\\메타플밍5기\\Documents\\GameAcademy\\CSharp-Programing\\12. Exception\\12. Exception.csproj",
       "packagesPath": "C:\\Users\\메타플밍5기\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\메타플밍5기\\Documents\\GIT\\GameAcademy\\CSharp-Programing\\12. Exception\\obj\\",
+      "outputPath": "C:\\Users\\메타플밍5기\\Documents\\GameAcademy\\CSharp-Programing\\12. Exception\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\메타플밍5기\\AppData\\Roaming\\NuGet\\NuGet.Config",

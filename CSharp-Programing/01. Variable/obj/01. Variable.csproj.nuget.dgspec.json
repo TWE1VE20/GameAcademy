@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\메타플밍5기\\Documents\\GIT\\GameAcademy\\CSharp-Programing\\01. Variable\\01. Variable.csproj": {}
+    "C:\\Users\\메타플밍5기\\Documents\\GameAcademy\\CSharp-Programing\\01. Variable\\01. Variable.csproj": {}
   },
   "projects": {
-    "C:\\Users\\메타플밍5기\\Documents\\GIT\\GameAcademy\\CSharp-Programing\\01. Variable\\01. Variable.csproj": {
+    "C:\\Users\\메타플밍5기\\Documents\\GameAcademy\\CSharp-Programing\\01. Variable\\01. Variable.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\메타플밍5기\\Documents\\GIT\\GameAcademy\\CSharp-Programing\\01. Variable\\01. Variable.csproj",
+        "projectUniqueName": "C:\\Users\\메타플밍5기\\Documents\\GameAcademy\\CSharp-Programing\\01. Variable\\01. Variable.csproj",
         "projectName": "01. Variable",
-        "projectPath": "C:\\Users\\메타플밍5기\\Documents\\GIT\\GameAcademy\\CSharp-Programing\\01. Variable\\01. Variable.csproj",
+        "projectPath": "C:\\Users\\메타플밍5기\\Documents\\GameAcademy\\CSharp-Programing\\01. Variable\\01. Variable.csproj",
         "packagesPath": "C:\\Users\\메타플밍5기\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\메타플밍5기\\Documents\\GIT\\GameAcademy\\CSharp-Programing\\01. Variable\\obj\\",
+        "outputPath": "C:\\Users\\메타플밍5기\\Documents\\GameAcademy\\CSharp-Programing\\01. Variable\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\메타플밍5기\\AppData\\Roaming\\NuGet\\NuGet.Config",
