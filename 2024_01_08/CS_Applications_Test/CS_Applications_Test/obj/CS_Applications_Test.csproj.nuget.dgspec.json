@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\메타플밍5기\\Documents\\GIT\\GameAcademy\\2024_01_08\\CS_Applications_Test\\CS_Applications_Test\\CS_Applications_Test.csproj": {}
+    "C:\\Users\\메타플밍5기\\Documents\\GameAcademy\\2024_01_08\\CS_Applications_Test\\CS_Applications_Test\\CS_Applications_Test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\메타플밍5기\\Documents\\GIT\\GameAcademy\\2024_01_08\\CS_Applications_Test\\CS_Applications_Test\\CS_Applications_Test.csproj": {
+    "C:\\Users\\메타플밍5기\\Documents\\GameAcademy\\2024_01_08\\CS_Applications_Test\\CS_Applications_Test\\CS_Applications_Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\메타플밍5기\\Documents\\GIT\\GameAcademy\\2024_01_08\\CS_Applications_Test\\CS_Applications_Test\\CS_Applications_Test.csproj",
+        "projectUniqueName": "C:\\Users\\메타플밍5기\\Documents\\GameAcademy\\2024_01_08\\CS_Applications_Test\\CS_Applications_Test\\CS_Applications_Test.csproj",
         "projectName": "CS_Applications_Test",
-        "projectPath": "C:\\Users\\메타플밍5기\\Documents\\GIT\\GameAcademy\\2024_01_08\\CS_Applications_Test\\CS_Applications_Test\\CS_Applications_Test.csproj",
+        "projectPath": "C:\\Users\\메타플밍5기\\Documents\\GameAcademy\\2024_01_08\\CS_Applications_Test\\CS_Applications_Test\\CS_Applications_Test.csproj",
         "packagesPath": "C:\\Users\\메타플밍5기\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\메타플밍5기\\Documents\\GIT\\GameAcademy\\2024_01_08\\CS_Applications_Test\\CS_Applications_Test\\obj\\",
+        "outputPath": "C:\\Users\\메타플밍5기\\Documents\\GameAcademy\\2024_01_08\\CS_Applications_Test\\CS_Applications_Test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\메타플밍5기\\AppData\\Roaming\\NuGet\\NuGet.Config",
