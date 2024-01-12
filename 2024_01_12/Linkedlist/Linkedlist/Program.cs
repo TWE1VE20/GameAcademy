@@ -32,7 +32,11 @@ namespace Linkedlist
                 if (ints.First == null) { ints.AddFirst(num); PrintLinkedList(ints); continue; }
                 if (num == ints.First.Value) { PrintLinkedList(ints); continue; }
                 if (num == ints.Last.Value) { PrintLinkedList(ints); continue;}
-                if (ints.First == ints.Last) { ints.AddLast(num); PrintLinkedList(ints); continue; }
+                if (ints.First == ints.Last) 
+                {
+                    if (ints.First.Value > num) { ints.AddFirst(num); PrintLinkedList(ints); continue; }
+                    if (ints.Last.Value < num) { ints.AddLast(num); PrintLinkedList(ints); continue; }
+                }
                 if (ints.First.Value > num) { ints.AddFirst(num); PrintLinkedList(ints); continue; }
                 if (ints.Last.Value < num) { ints.AddLast(num); PrintLinkedList(ints); continue; }
                 for (LinkedListNode<int> node = ints.First; node != null; node = node.Next)
