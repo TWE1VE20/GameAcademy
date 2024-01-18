@@ -5,6 +5,10 @@ VisualStudioVersion = 17.8.34330.188
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cheat_Key", "Cheat_Key\Cheat_Key.csproj", "{BAB9ABC4-F4C7-4E03-8AAB-001263126900}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindPassword", "FindPassword\FindPassword.csproj", "{CAD89241-2321-4757-A7A1-83FBC891BB60}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Card", "Card\Card.csproj", "{E1670EAE-BBF3-4720-BFE6-E4142FE54793}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{BAB9ABC4-F4C7-4E03-8AAB-001263126900}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BAB9ABC4-F4C7-4E03-8AAB-001263126900}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BAB9ABC4-F4C7-4E03-8AAB-001263126900}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAD89241-2321-4757-A7A1-83FBC891BB60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAD89241-2321-4757-A7A1-83FBC891BB60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAD89241-2321-4757-A7A1-83FBC891BB60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAD89241-2321-4757-A7A1-83FBC891BB60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1670EAE-BBF3-4720-BFE6-E4142FE54793}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1670EAE-BBF3-4720-BFE6-E4142FE54793}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1670EAE-BBF3-4720-BFE6-E4142FE54793}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1670EAE-BBF3-4720-BFE6-E4142FE54793}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
