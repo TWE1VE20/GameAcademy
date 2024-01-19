@@ -5,6 +5,10 @@ VisualStudioVersion = 17.8.34330.188
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignTechnique", "DesignTechnique\DesignTechnique.csproj", "{13ACF6DF-1D82-4B61-A455-04FB5116AC18}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ATM", "ATM\ATM.csproj", "{0C77BCDA-A461-477B-B157-A386C0212BBB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Triangle", "Triangle\Triangle.csproj", "{A2EA44B2-D874-42C2-86E2-0E95B97BEB08}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{13ACF6DF-1D82-4B61-A455-04FB5116AC18}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{13ACF6DF-1D82-4B61-A455-04FB5116AC18}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{13ACF6DF-1D82-4B61-A455-04FB5116AC18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C77BCDA-A461-477B-B157-A386C0212BBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C77BCDA-A461-477B-B157-A386C0212BBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C77BCDA-A461-477B-B157-A386C0212BBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C77BCDA-A461-477B-B157-A386C0212BBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2EA44B2-D874-42C2-86E2-0E95B97BEB08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2EA44B2-D874-42C2-86E2-0E95B97BEB08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2EA44B2-D874-42C2-86E2-0E95B97BEB08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2EA44B2-D874-42C2-86E2-0E95B97BEB08}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
