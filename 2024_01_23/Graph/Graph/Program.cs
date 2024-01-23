@@ -2,7 +2,7 @@
 {
     internal class Program
     {
-        static void Main(string[] args)
+        static void Main1(string[] args)
         {
             List<List<int>> listGraph1;
             listGraph1 = new List<List<int>>();
